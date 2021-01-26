@@ -1,0 +1,4 @@
+26-01-2021 03:28:03: The function to find filename took 0.3917µs
+26-01-2021 03:28:03: The function to calculate lines took 3.3714µs
+26-01-2021 03:28:06: The function to query word she took 5.0594µs
+and the word: 'she' was found765 times
